@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextMaster/static/css/main.eda50afe.css",
+    "main.js": "/TextMaster/static/js/main.f7f03212.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TextMaster/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TextMaster/index.html",
+    "main.eda50afe.css.map": "/TextMaster/static/css/main.eda50afe.css.map",
+    "main.f7f03212.js.map": "/TextMaster/static/js/main.f7f03212.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TextMaster/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eda50afe.css",
+    "static/js/main.f7f03212.js"
+  ]
+}
